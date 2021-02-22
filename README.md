@@ -1,6 +1,6 @@
-# COVID-19-tweets-sentiment-analysis
-Mainly use nltk library
-### Topic: Twitter sentiment analysis related to Covid-19 (2020-07-24 to 2020-08-30)
+# Topic: Twitter sentiment analysis related to Covid-19 (2020-07-24 to 2020-08-30)
+### Mainly use nltk library
+### Datasource: https://www.kaggle.com/gpreda/covid19-tweets
 ### <li>clean the text by:<br> remove url;<br>convert to lower case;<br>remove punctuations,stopwords(from nltk library package),numbers
 ### <li>SentimentIntensityAnalyzer() to generate polarity value and hence label it as:
 ### <li>-- positive<br><li>-- neutral<br><li>-- negative 
