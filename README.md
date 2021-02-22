@@ -1,5 +1,5 @@
 # COVID-19-tweets-sentiment-analysis
-Coursera project
+Mainly use nltk library
 ## <li>Highest freq word
 ![highest freq word](https://github.com/eduhkdcx/COVID-19-tweets-sentiment-analysis/blob/main/high_freq_word.png)
 ## <li>Sentiment barplot
