@@ -17,3 +17,6 @@
 ![trend](https://github.com/eduhkdcx/COVID-19-tweets-sentiment-analysis/blob/main/trend_line.png)
 ##<li>Word Cloud
 ![wordcloud](https://github.com/eduhkdcx/COVID-19-tweets-sentiment-analysis/blob/main/wordcloud.png)
+##<li>Naive Bayes Model Result
+![nb cm](https://github.com/chenx-git/COVID-19-tweets-sentiment-analysis/blob/main/nb_cm.png)
+![class report](https://github.com/chenx-git/COVID-19-tweets-sentiment-analysis/blob/main/nb_class_report.PNG)
